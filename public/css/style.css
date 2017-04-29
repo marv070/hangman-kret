@@ -1,0 +1,17 @@
+ .background {
+ background-color: #000;
+ background-image: url(http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/10/TWD-retrospective-special-1920x1080.jpg);
+background-repeat: no-repeat;
+background-size: 100% 115%;
+min-width: 100%;
+min-height: 100%
+}
+
+.welcometitle {
+	font-size: 3rem;
+	color: black;
+}
+.name {
+	font-size: 2rem;
+	padding-bottom: 10%;
+}
